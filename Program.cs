@@ -42,7 +42,10 @@ namespace OperatorExercise
            
             
         }
-           public static double CalculateArea( double radius)
+
+        //CONSTRUCT METHOD
+
+        public static double CalculateArea( double radius)
         {
             return Math.PI * (radius * radius);
 
