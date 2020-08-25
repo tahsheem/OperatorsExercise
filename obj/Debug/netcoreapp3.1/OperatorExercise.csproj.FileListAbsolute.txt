@@ -1,0 +1,12 @@
+/Users/administrator/TrueCoders/repos/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.deps.json
+/Users/administrator/TrueCoders/repos/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.runtimeconfig.json
+/Users/administrator/TrueCoders/repos/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.runtimeconfig.dev.json
+/Users/administrator/TrueCoders/repos/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.dll
+/Users/administrator/TrueCoders/repos/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.pdb
+/Users/administrator/TrueCoders/repos/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.AssemblyInfoInputs.cache
+/Users/administrator/TrueCoders/repos/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.AssemblyInfo.cs
+/Users/administrator/TrueCoders/repos/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.csproj.CoreCompileInputs.cache
+/Users/administrator/TrueCoders/repos/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.dll
+/Users/administrator/TrueCoders/repos/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.pdb
+/Users/administrator/TrueCoders/repos/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.genruntimeconfig.cache
+/Users/administrator/TrueCoders/repos/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.csprojAssemblyReference.cache
